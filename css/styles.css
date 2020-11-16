@@ -38,8 +38,8 @@ body{
 tr:hover {
     background-color:#dbb08db0!important;
 }
-.card-header {
+.card-header-facts {
     background-color:#6E3F19!important;
 }
-.card-body {background-color:#dbb08db0!important; 
+.card-body-facts {background-color:#dbb08db0!important; 
 }
