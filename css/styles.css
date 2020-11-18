@@ -40,9 +40,18 @@ tr:hover {
 }
 .card-header-facts {
     background-color:#6E3F19!important;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
 }
-.card-body-facts {background-color:#dbb08db0!important; 
+.card-body-facts {background-color:#dbb08db0!important;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem; 
 }
+
 .tab-content {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
