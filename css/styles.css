@@ -132,6 +132,9 @@ tr:hover {
 	background-image: url("http://i.imgur.com/VkiM7PL.jpg");
 }
 
+.paymentWrap .paymentBtnGroup .paymentMethod .method.ez-cash {
+	background-image: url("https://cdn4.iconfinder.com/data/icons/simple-peyment-methods/512/paypal-512.png");
+}
 
 .paymentWrap .paymentBtnGroup .paymentMethod .method:hover {
 	border-color: #4cd264;
